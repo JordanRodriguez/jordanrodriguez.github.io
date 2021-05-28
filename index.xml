@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jorrod.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://jorrod.com/about/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jorrod.com/about/</guid>
-      <description>Hey. I’m a father, husband, and IT professional. When I have free time, I love nerding out and learning all I can about random topics. I’ll be sharing the tips and tricks I pick up along the way so that you can save time researching them and get right to business.</description>
-    </item>
-    
-    <item>
       <title>How to adjust your reel mower</title>
       <link>https://jorrod.com/adjusting-reel-mower/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jorrod.com/adjusting-reel-mower/</guid>
       <description>When is an adjustment needed? The short answer - it&amp;rsquo;s needed when the reel mower is no longer cutting the grass cleanly. That may look different for each lawn depending on the type of grass the person has and how much of an adjustment is needed. I knew that mine needed an adjustment when it was damaging the grass by bending it and leaving brown lines across the blades. You may also see lots of uncut grass blades sticking up throughout your lawn.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jorrod.com/about/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorrod.com/about/</guid>
+      <description>Hey. I’m a father, husband, and IT professional. When I have free time, I love nerding out and learning all I can about random topics. I’ll be sharing the tips and tricks I pick up along the way so that you can save time researching them and get right to business.</description>
     </item>
     
   </channel>
