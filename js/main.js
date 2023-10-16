@@ -14,3 +14,7 @@ if(navbarDropdownExpanded == "true") {
 
 navbarDropdown.setAttribute("aria-expanded", navbarDropdownExpanded);
 });
+
+function sidebarSearch() {
+    document.getElementById('search').value = "site:jorrod.com " + document.getElementById('search').value;
+}
