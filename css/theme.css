@@ -127,3 +127,14 @@ h6 {
 .menu_links {
   padding-bottom: 100px
 }
+.blog_details ol {
+  padding-left: 0px;
+  margin-left:2em;
+  line-height: 28px;
+}
+.blog_details ol li {
+  list-style: decimal;
+}
+.blog_details ol li::before {
+  color: #727272;
+}
